@@ -1,0 +1,16 @@
+C:\Users\Student\Desktop\svs-talent-2015-master\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_SRP\ExampleSrp\cars\bin\Debug\cars.exe.config
+C:\Users\Student\Desktop\svs-talent-2015-master\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_SRP\ExampleSrp\cars\bin\Debug\cars.exe
+C:\Users\Student\Desktop\svs-talent-2015-master\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_SRP\ExampleSrp\cars\bin\Debug\cars.pdb
+C:\Users\Student\Desktop\svs-talent-2015-master\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_SRP\ExampleSrp\cars\bin\Debug\ExampleSrp.dll
+C:\Users\Student\Desktop\svs-talent-2015-master\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_SRP\ExampleSrp\cars\bin\Debug\ExampleSrp.pdb
+C:\Users\Student\Desktop\svs-talent-2015-master\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_SRP\ExampleSrp\cars\obj\Debug\cars.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\svs-talent-2015-master\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_SRP\ExampleSrp\cars\obj\Debug\cars.exe
+C:\Users\Student\Desktop\svs-talent-2015-master\svs-talent-2015-master\00-C# Basics\Labs\01.03 SOLID_SRP\ExampleSrp\cars\obj\Debug\cars.pdb
+C:\Users\gp\Desktop\Home\Labs\01.03 SOLID_SRP\ExampleSrp\cars\bin\Debug\cars.exe.config
+C:\Users\gp\Desktop\Home\Labs\01.03 SOLID_SRP\ExampleSrp\cars\obj\Debug\cars.exe
+C:\Users\gp\Desktop\Home\Labs\01.03 SOLID_SRP\ExampleSrp\cars\obj\Debug\cars.pdb
+C:\Users\gp\Desktop\Home\Labs\01.03 SOLID_SRP\ExampleSrp\cars\bin\Debug\cars.exe
+C:\Users\gp\Desktop\Home\Labs\01.03 SOLID_SRP\ExampleSrp\cars\bin\Debug\cars.pdb
+C:\Users\gp\Desktop\Home\Labs\01.03 SOLID_SRP\ExampleSrp\cars\bin\Debug\ExampleSrp.dll
+C:\Users\gp\Desktop\Home\Labs\01.03 SOLID_SRP\ExampleSrp\cars\bin\Debug\ExampleSrp.pdb
+C:\Users\gp\Desktop\Home\Labs\01.03 SOLID_SRP\ExampleSrp\cars\obj\Debug\cars.csprojResolveAssemblyReference.cache

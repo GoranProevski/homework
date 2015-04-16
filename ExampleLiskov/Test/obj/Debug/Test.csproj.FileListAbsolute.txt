@@ -1,0 +1,8 @@
+c:\users\gp\documents\visual studio 2013\Projects\ExampleLiskov\Test\bin\Debug\Test.exe.config
+c:\users\gp\documents\visual studio 2013\Projects\ExampleLiskov\Test\bin\Debug\Test.exe
+c:\users\gp\documents\visual studio 2013\Projects\ExampleLiskov\Test\bin\Debug\Test.pdb
+c:\users\gp\documents\visual studio 2013\Projects\ExampleLiskov\Test\bin\Debug\ExampleLiskov.dll
+c:\users\gp\documents\visual studio 2013\Projects\ExampleLiskov\Test\bin\Debug\ExampleLiskov.pdb
+c:\users\gp\documents\visual studio 2013\Projects\ExampleLiskov\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\gp\documents\visual studio 2013\Projects\ExampleLiskov\Test\obj\Debug\Test.exe
+c:\users\gp\documents\visual studio 2013\Projects\ExampleLiskov\Test\obj\Debug\Test.pdb

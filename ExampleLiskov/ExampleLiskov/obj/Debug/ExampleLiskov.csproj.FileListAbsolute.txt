@@ -1,0 +1,5 @@
+c:\users\gp\documents\visual studio 2013\Projects\ExampleLiskov\ExampleLiskov\bin\Debug\ExampleLiskov.dll
+c:\users\gp\documents\visual studio 2013\Projects\ExampleLiskov\ExampleLiskov\bin\Debug\ExampleLiskov.pdb
+c:\users\gp\documents\visual studio 2013\Projects\ExampleLiskov\ExampleLiskov\obj\Debug\ExampleLiskov.csprojResolveAssemblyReference.cache
+c:\users\gp\documents\visual studio 2013\Projects\ExampleLiskov\ExampleLiskov\obj\Debug\ExampleLiskov.dll
+c:\users\gp\documents\visual studio 2013\Projects\ExampleLiskov\ExampleLiskov\obj\Debug\ExampleLiskov.pdb

@@ -1,0 +1,5 @@
+c:\users\gp\documents\visual studio 2013\Projects\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csprojResolveAssemblyReference.cache
+c:\users\gp\documents\visual studio 2013\Projects\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.dll
+c:\users\gp\documents\visual studio 2013\Projects\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.pdb
+c:\users\gp\documents\visual studio 2013\Projects\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.dll
+c:\users\gp\documents\visual studio 2013\Projects\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.pdb
