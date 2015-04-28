@@ -1,0 +1,5 @@
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.Common\bin\Debug\Register.Common.dll
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.Common\bin\Debug\Register.Common.pdb
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.Common\obj\Debug\Register.Common.csprojResolveAssemblyReference.cache
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.Common\obj\Debug\Register.Common.dll
+C:\Users\gp\Documents\Visual Studio 2013\Projects\Bikes\Register.Common\obj\Debug\Register.Common.pdb
